@@ -6,4 +6,4 @@
 Criação de portfólio para fins educacionais do curto de Formação em Front-End do programa Oracle Next Education em parceria com a Alura.
 
 # Badge 💨
-Em breve. :)
+![cms_files_10224_1671211659Prancheta_4](https://github.com/n4tsumi1/Challenge-Oracle-ONE/assets/72478111/ed38b72e-94ff-4565-948e-02edf88e771b)
