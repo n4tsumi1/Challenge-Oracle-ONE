@@ -1,0 +1,62 @@
+.curso {
+  align-items: center;
+  background: #eaf2fd;
+  display: flex;
+  gap: 1.25rem;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2% 5%;
+  width: 90%;
+}
+
+.cursos {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 38px;
+  text-align: center;
+  color: #464646;
+  margin: 1px 0 2px;
+}
+
+.cursos-box {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+.cursos-box--img {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 1rem;
+  background: #ffffff;
+  min-width: 320px;
+  width: 350px;
+  height: 250px;
+}
+
+.cursos-box--img > figure {
+  width: 50%;
+}
+
+.cursos-box--img > figure > img {
+  background-size: cover;
+  width: 100%;
+  justify-content: center;
+}
+
+.cursos-box--img > p {
+  font-weight: 700;
+  line-height: 19px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.375rem;
+  color: #464646;
+}

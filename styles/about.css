@@ -1,0 +1,29 @@
+.about {
+  background: #eaf2fd;
+  text-align: flex-start;
+  padding: 2% 5%;
+  width: 90%;
+}
+
+.about-me {
+  color: #464646;
+  padding: 1rem;
+}
+
+.about-me--h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.about-me--p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+/* Mobile celular */
+@media screen and (max-width: 376px) {
+  .about {
+    font-size: 0.938rem;
+  }
+}
